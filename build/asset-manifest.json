@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clementine/static/css/main.2cef0a1b.css",
+    "main.js": "/clementine/static/js/main.f0b197af.js",
+    "static/js/453.9d54cf31.chunk.js": "/clementine/static/js/453.9d54cf31.chunk.js",
+    "index.html": "/clementine/index.html",
+    "main.2cef0a1b.css.map": "/clementine/static/css/main.2cef0a1b.css.map",
+    "main.f0b197af.js.map": "/clementine/static/js/main.f0b197af.js.map",
+    "453.9d54cf31.chunk.js.map": "/clementine/static/js/453.9d54cf31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cef0a1b.css",
+    "static/js/main.f0b197af.js"
+  ]
+}
